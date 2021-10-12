@@ -23,6 +23,7 @@ body {
   margin-left: 20px;
   margin-right: 20px;
   display: inline-block;
+  border-radius: 10px;
 }
 
 .inner_card {
@@ -32,6 +33,7 @@ body {
 #bl_image {
   height: 200px;
   width: 300px;
+  border-radius: 10px;
 }
 
 .cards-container {
@@ -54,4 +56,22 @@ a {
   margin-left: 20px;
   margin-right: 20px;
   display: inline-block;
+  border-radius: 10px;
+}
+
+.form_div {
+  background-color: rgba(176, 226, 233, 0.212);
+}
+
+.form-control {
+  margin-top: 20px;
+}
+
+.button {
+  margin-top: 10px;
+  background-color: rgba(2, 176, 245, 0.74);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  padding: 10px;
+  color: papayawhip;
 }
